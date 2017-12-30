@@ -151,15 +151,15 @@ function exit_message {
 }
 
 # starting main
-# update_and_upgrade
-# install_build_tools
-# add_repositories
-#setup_zsh
-# setup_fonts
+update_and_upgrade
+install_build_tools
+add_repositories
+setup_zsh
+setup_fonts
 #install_ruby_on_rails
-# install_node_and_libs
+install_node_and_libs
 install_browsers
-# install_jdk
-# install_code_editors
-# install_docker
-# exit_message
+install_jdk
+install_code_editors
+install_docker
+exit_message
